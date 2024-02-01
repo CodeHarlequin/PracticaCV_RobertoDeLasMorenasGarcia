@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace PracticaCV_RobertoDeLasMorenasGarcia
 {
-   internal class RobertoMG
+   class RobertoMG
    {
+      // CONSTANTES
+
+      // MIEMBROS PRIVADOS
+
+      // CONSTRUCTORES
+
+      // METODOS PUBLICOS
+
+      // METODOS PRIVADOS
    }
 }
