@@ -1,4 +1,6 @@
-﻿namespace PracticaCV_RobertoDeLasMorenasGarcia
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace PracticaCV_RobertoDeLasMorenasGarcia
 {
    internal class Program
    {
@@ -13,6 +15,7 @@
          // PROCESAMIENTO
 
          // SALIDA
+         Console.WriteLine("Mi nombre es: < Alumn@>");
       }
    }
 }
